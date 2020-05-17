@@ -99,4 +99,4 @@ The travis build is found at
    :alt: Documentation for master branch
 
 .. |lib-status| image:: https://travis-ci.org/cloudmesh/client.svg?branch=libcloud
-    :target: https://travis-ci.org/cloudmesh/client
+    :target: https://travis-ci.org/cloudmesh/client 
